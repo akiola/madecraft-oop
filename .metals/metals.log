@@ -1022,3 +1022,1367 @@ package exercises;
 package exercises;
 ^
 2 errors
+2023.06.09 14:14:56 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:14:57 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+3 errors
+2023.06.09 14:14:59 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java
+2023.06.09 14:15:00 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/MinionTest.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:3: error: package org.junit does not exist
+import static org.junit.Assert.*;
+                       ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:5: error: package org.junit does not exist
+import org.junit.Test;
+                ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+5 errors
+2023.06.09 14:15:03 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:15:06 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java
+Jun 09, 2023 2:15:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 887
+2023.06.09 14:15:22 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:15:22 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+3 errors
+2023.06.09 14:15:30 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:15:31 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:6: error: illegal start of type
+ * 			private int eyes; 
+ ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:7: error: illegal start of type
+ * 			private String color; 
+ ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:8: error: illegal start of type
+ * 			private String master;
+ ^
+3 errors
+2023.06.09 14:15:34 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:15:34 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:7: error: illegal start of type
+ * 			private String color; 
+ ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:8: error: illegal start of type
+ * 			private String master;
+ ^
+2 errors
+2023.06.09 14:15:36 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:15:37 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:8: error: illegal start of type
+ * 			private String master;
+ ^
+1 error
+2023.06.09 14:15:39 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:15:39 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+3 errors
+2023.06.09 14:16:00 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:16:01 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+3 errors
+2023.06.09 14:16:03 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:16:04 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+3 errors
+2023.06.09 14:16:25 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:16:26 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+3 errors
+2023.06.09 14:16:31 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/examples/Disease.java
+2023.06.09 14:16:32 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/examples/Disease.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/examples/Disease.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package examples;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/examples/Disease.java:1: error: semanticdb-javac: unknown flag 'and'
+package examples;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/examples/Disease.java:1: error: semanticdb-javac: unknown flag 'Setters/examples'
+package examples;
+^
+3 errors
+2023.06.09 14:16:48 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:16:49 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+3 errors
+2023.06.09 14:16:51 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:16:51 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:10: error: <identifier> expected
+    Minion
+          ^
+1 error
+2023.06.09 14:16:53 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:16:53 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:10: error: ';' expected
+    Minion()
+            ^
+1 error
+2023.06.09 14:17:21 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:17:22 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:10: error: ';' expected
+    Minion(String name)
+                       ^
+1 error
+2023.06.09 14:17:24 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:17:24 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:10: error: <identifier> expected
+    Minion(String name, int )
+                           ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:10: error: ';' expected
+    Minion(String name, int )
+                             ^
+2 errors
+2023.06.09 14:17:26 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:17:26 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:10: error: ';' expected
+    Minion(String name, int eyes)
+                                 ^
+1 error
+2023.06.09 14:17:29 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:17:29 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:10: error: <identifier> expected
+    Minion(String name, int eyes, Str)
+                                     ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:10: error: ';' expected
+    Minion(String name, int eyes, Str)
+                                      ^
+2 errors
+2023.06.09 14:17:30 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:17:31 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:10: error: <identifier> expected
+    Minion(String name, int eyes, String)
+                                        ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:10: error: ';' expected
+    Minion(String name, int eyes, String)
+                                         ^
+2 errors
+2023.06.09 14:17:33 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:17:34 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:10: error: ';' expected
+    Minion(String name, int eyes, String color)
+                                               ^
+1 error
+2023.06.09 14:17:36 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:17:37 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:10: error: <identifier> expected
+    Minion(String name, int eyes, String color, Strin)
+                                                     ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:10: error: ';' expected
+    Minion(String name, int eyes, String color, Strin)
+                                                      ^
+2 errors
+2023.06.09 14:17:39 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:17:40 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:10: error: ';' expected
+    Minion(String name, int eyes, String color, String master)
+                                                              ^
+1 error
+2023.06.09 14:17:43 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:17:44 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+3 errors
+2023.06.09 14:17:53 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:17:54 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:12: error: not a statement
+        this
+        ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:12: error: ';' expected
+        this
+            ^
+2 errors
+2023.06.09 14:18:03 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:18:04 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:13: error: <identifier> expected
+        this.
+             ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:13: error: not a statement
+        this.
+            ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:14: error: ';' expected
+    }
+     ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:18: error: reached end of file while parsing
+}
+ ^
+4 errors
+2023.06.09 14:18:13 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:18:14 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:14: error: not a statement
+        this
+        ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:14: error: ';' expected
+        this
+            ^
+2 errors
+2023.06.09 14:18:22 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:18:23 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+3 errors
+Jun 09, 2023 2:18:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1600
+2023.06.09 14:18:28 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:18:29 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:17: error: <identifier> expected
+    public void
+               ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:21: error: '(' expected
+}
+^
+2 errors
+2023.06.09 14:18:46 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:18:47 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:17: error: <identifier> expected
+    public void 
+               ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:21: error: '(' expected
+}
+^
+2 errors
+2023.06.09 14:18:48 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:18:49 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:21: error: '(' expected
+}
+^
+1 error
+2023.06.09 14:18:51 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:18:52 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:17: error: ';' expected
+    public void setName()
+                         ^
+1 error
+2023.06.09 14:18:53 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:18:54 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:17: error: <identifier> expected
+    public void setName(String)
+                              ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:17: error: ';' expected
+    public void setName(String)
+                               ^
+2 errors
+2023.06.09 14:19:00 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:19:00 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:17: error: ';' expected
+    public void setName(String name)
+                                    ^
+1 error
+2023.06.09 14:19:01 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:19:02 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+3 errors
+2023.06.09 14:19:04 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:19:04 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:18: error: not a statement
+        this
+        ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:18: error: ';' expected
+        this
+            ^
+2 errors
+2023.06.09 14:19:09 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:19:10 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+3 errors
+2023.06.09 14:19:12 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:19:13 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+3 errors
+2023.06.09 14:19:14 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:19:14 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+3 errors
+2023.06.09 14:19:14 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:19:16 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+3 errors
+2023.06.09 14:19:17 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:19:18 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+3 errors
+2023.06.09 14:19:22 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:19:23 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+3 errors
+2023.06.09 14:19:25 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:19:26 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+3 errors
+2023.06.09 14:19:31 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/examples/Disease.java
+Jun 09, 2023 2:19:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1903
+2023.06.09 14:19:46 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:19:47 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:20: error: <identifier> expected
+    public Strin
+                ^
+1 error
+2023.06.09 14:19:51 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:19:52 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:20: error: ';' expected
+    public String getName
+                         ^
+1 error
+2023.06.09 14:19:52 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:19:53 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:20: error: ';' expected
+    public String getNameString
+                               ^
+1 error
+2023.06.09 14:19:56 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:19:57 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:20: error: ';' expected
+    public String getName()
+                           ^
+1 error
+2023.06.09 14:20:01 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:20:02 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:21: error: <identifier> expected
+        return this.
+                    ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:22: error: ';' expected
+    }
+     ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:26: error: reached end of file while parsing
+}
+ ^
+3 errors
+2023.06.09 14:20:04 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:20:05 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+3 errors
+2023.06.09 14:20:10 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:20:11 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+3 errors
+2023.06.09 14:20:13 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:20:14 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:24: error: method setName(String) is already defined in class Minion
+    public void setName(String newName){
+                ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:27: error: method getName() is already defined in class Minion
+    public String getName(){
+                  ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+5 errors
+2023.06.09 14:20:19 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:20:20 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:27: error: method getName() is already defined in class Minion
+    public String getName(){
+                  ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+4 errors
+2023.06.09 14:20:23 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:20:24 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:27: error: method getName() is already defined in class Minion
+    public String getName(){
+                  ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+4 errors
+2023.06.09 14:20:27 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:20:28 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:27: error: method getName() is already defined in class Minion
+    public String getName(){
+                  ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:25: error: cannot find symbol
+        this.name = newName;
+                    ^
+  symbol:   variable newName
+  location: class Minion
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+5 errors
+2023.06.09 14:20:30 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:20:31 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:27: error: method getName() is already defined in class Minion
+    public String getName(){
+                  ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:25: error: cannot find symbol
+        this.name = newName;
+                    ^
+  symbol:   variable newName
+  location: class Minion
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+5 errors
+2023.06.09 14:20:34 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:20:35 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:27: error: method getName() is already defined in class Minion
+    public String getName(){
+                  ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+4 errors
+2023.06.09 14:20:39 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:20:40 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+3 errors
+2023.06.09 14:20:48 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:20:49 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:28: error: incompatible types: int cannot be converted to String
+        return this.eyes;
+                   ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+4 errors
+2023.06.09 14:20:56 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:20:57 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+3 errors
+2023.06.09 14:21:05 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:21:06 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:31: error: method setEyes(String) is already defined in class Minion
+    public void setEyes(String newEyes){
+                ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:34: error: method getEyes() is already defined in class Minion
+    public int getEyes(){
+               ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+5 errors
+2023.06.09 14:21:12 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:21:13 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:34: error: method getEyes() is already defined in class Minion
+    public int getEyes(){
+               ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+4 errors
+2023.06.09 14:21:16 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:21:17 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:34: error: method getEyes() is already defined in class Minion
+    public int getEyes(){
+               ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:32: error: cannot find symbol
+        this.name = newEyes;
+                    ^
+  symbol:   variable newEyes
+  location: class Minion
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+5 errors
+2023.06.09 14:21:21 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:21:22 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:34: error: method getEyes() is already defined in class Minion
+    public int getEyes(){
+               ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+4 errors
+2023.06.09 14:21:28 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:21:29 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:34: error: method getEyes() is already defined in class Minion
+    public int getEyes(){
+               ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:35: error: incompatible types: String cannot be converted to int
+        return this.color;
+                   ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+5 errors
+2023.06.09 14:21:30 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:21:31 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:34: error: method getEyes() is already defined in class Minion
+    public int getEyes(){
+               ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:35: error: incompatible types: String cannot be converted to int
+        return this.color;
+                   ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+5 errors
+2023.06.09 14:21:35 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:21:35 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:35: error: incompatible types: String cannot be converted to int
+        return this.color;
+                   ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+4 errors
+2023.06.09 14:21:41 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:21:42 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+3 errors
+2023.06.09 14:21:45 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:21:45 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:38: error: method setEyes(String) is already defined in class Minion
+    public void setEyes(String newEyes){
+                ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:41: error: method getEyes() is already defined in class Minion
+    public int getEyes(){
+               ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+5 errors
+2023.06.09 14:21:49 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:21:50 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:41: error: method getEyes() is already defined in class Minion
+    public int getEyes(){
+               ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+4 errors
+2023.06.09 14:21:54 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:21:55 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:41: error: method getEyes() is already defined in class Minion
+    public int getEyes(){
+               ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:39: error: cannot find symbol
+        this.name = newEyes;
+                    ^
+  symbol:   variable newEyes
+  location: class Minion
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+5 errors
+2023.06.09 14:21:55 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+Jun 09, 2023 2:21:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2648
+2023.06.09 14:21:56 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:41: error: method getEyes() is already defined in class Minion
+    public int getEyes(){
+               ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:39: error: cannot find symbol
+        this.name = newEyes;
+                    ^
+  symbol:   variable newEyes
+  location: class Minion
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+5 errors
+2023.06.09 14:21:57 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:21:58 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:41: error: method getEyes() is already defined in class Minion
+    public int getEyes(){
+               ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:39: error: cannot find symbol
+        this.name = newEyes;
+                    ^
+  symbol:   variable newEyes
+  location: class Minion
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+5 errors
+2023.06.09 14:22:01 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:22:02 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:41: error: method getEyes() is already defined in class Minion
+    public int getEyes(){
+               ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+4 errors
+2023.06.09 14:22:05 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:22:06 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+3 errors
+2023.06.09 14:22:06 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:22:07 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+3 errors
+2023.06.09 14:22:10 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:22:11 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:42: error: incompatible types: String cannot be converted to int
+        return this.master;
+                   ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+4 errors
+2023.06.09 14:22:14 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:22:14 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+3 errors
+2023.06.09 14:22:58 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java
+2023.06.09 14:22:59 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/MinionTest.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:21: error: reached end of file while parsing
+public class MinionTest {
+                         ^
+1 error
+2023.06.09 14:23:24 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java
+2023.06.09 14:23:25 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/MinionTest.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:51: error: reached end of file while parsing
+1 error
+2023.06.09 14:23:27 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java
+2023.06.09 14:23:28 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/MinionTest.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:24: error: reached end of file while parsing
+public void testConstructor() {
+                               ^
+1 error
+2023.06.09 14:23:29 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java
+2023.06.09 14:23:29 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/MinionTest.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:24: error: reached end of file while parsing
+public void testConstructor() {
+                               ^
+1 error
+2023.06.09 14:23:33 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java
+2023.06.09 14:23:33 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/MinionTest.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:25: error: reached end of file while parsing
+		Minion stuart = new Minion("Stuart", 1, "yellow", "");		assertEquals("Stuart", stuart.getName());
+		                                                      		                                         ^
+1 error
+2023.06.09 14:23:35 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java
+2023.06.09 14:23:35 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/MinionTest.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:26: error: reached end of file while parsing
+        		assertEquals("Stuart", stuart.getName());
+        		                                         ^
+1 error
+Jun 09, 2023 2:23:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2903
+2023.06.09 14:23:38 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java
+2023.06.09 14:23:38 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/MinionTest.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:27: error: reached end of file while parsing
+	assertEquals(1, stuart.getEyes());
+	                                  ^
+1 error
+2023.06.09 14:23:40 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java
+2023.06.09 14:23:41 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/MinionTest.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:28: error: reached end of file while parsing
+	assertEquals("yellow", stuart.getColor());
+	                                          ^
+1 error
+2023.06.09 14:23:42 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java
+2023.06.09 14:23:43 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/MinionTest.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:28: error: reached end of file while parsing
+	assertEquals("yellow", stuart.getColor());
+	                                          ^
+1 error
+2023.06.09 14:23:46 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java
+2023.06.09 14:23:47 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/MinionTest.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:30: error: reached end of file while parsing
+	assertEquals("Dave", dave.getName());
+	                                     ^
+1 error
+2023.06.09 14:23:48 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java
+2023.06.09 14:23:49 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/MinionTest.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:30: error: reached end of file while parsing
+	assertEquals("Dave", dave.getName());
+	                                     ^
+1 error
+2023.06.09 14:23:51 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java
+2023.06.09 14:23:51 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/MinionTest.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:31: error: reached end of file while parsing
+	assertEquals(2, dave.getEyes());
+	                                ^
+1 error
+2023.06.09 14:23:53 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java
+2023.06.09 14:23:53 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/MinionTest.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:32: error: reached end of file while parsing
+	assertEquals("yellow", dave.getColor());
+	                                        ^
+1 error
+2023.06.09 14:23:56 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java
+2023.06.09 14:23:56 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/MinionTest.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:33: error: reached end of file while parsing
+}
+ ^
+1 error
+2023.06.09 14:24:08 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/examples/Character.java
+2023.06.09 14:24:27 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java
+2023.06.09 14:24:28 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/MinionTest.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:3: error: package org.junit does not exist
+import static org.junit.Assert.*;
+                       ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:5: error: package org.junit does not exist
+import org.junit.Test;
+                ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:23: error: cannot find symbol
+@Test
+ ^
+  symbol:   class Test
+  location: class MinionTest
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:25: error: cannot find symbol
+		Minion stuart = new Minion("Stuart", 1, "yellow", "");
+		^
+  symbol:   class Minion
+  location: class MinionTest
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:25: error: cannot find symbol
+		Minion stuart = new Minion("Stuart", 1, "yellow", "");
+		                    ^
+  symbol:   class Minion
+  location: class MinionTest
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:29: error: cannot find symbol
+	Minion dave = new Minion("Dave", 2, "yellow", "");
+	^
+  symbol:   class Minion
+  location: class MinionTest
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:29: error: cannot find symbol
+	Minion dave = new Minion("Dave", 2, "yellow", "");
+	                  ^
+  symbol:   class Minion
+  location: class MinionTest
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+10 errors
+2023.06.09 14:24:54 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java
+2023.06.09 14:24:55 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/MinionTest.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:3: error: package org.junit does not exist
+import static org.junit.Assert.*;
+                       ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:5: error: package org.junit does not exist
+import org.junit.Test;
+                ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:23: error: cannot find symbol
+@Test
+ ^
+  symbol:   class Test
+  location: class MinionTest
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:25: error: cannot find symbol
+		Minion stuart = new Minion("Stuart", 1, "yellow", "");
+		^
+  symbol:   class Minion
+  location: class MinionTest
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:25: error: cannot find symbol
+		Minion stuart = new Minion("Stuart", 1, "yellow", "");
+		                    ^
+  symbol:   class Minion
+  location: class MinionTest
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:29: error: cannot find symbol
+	Minion dave = new Minion("Dave", 2, "yellow", "");
+	^
+  symbol:   class Minion
+  location: class MinionTest
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:29: error: cannot find symbol
+	Minion dave = new Minion("Dave", 2, "yellow", "");
+	                  ^
+  symbol:   class Minion
+  location: class MinionTest
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+10 errors
+2023.06.09 14:24:57 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java
+2023.06.09 14:24:57 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/MinionTest.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:47: error: illegal start of type
+}
+^
+1 error
+2023.06.09 14:24:59 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java
+2023.06.09 14:25:00 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/MinionTest.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:47: error: reached end of file while parsing
+}
+ ^
+1 error
+2023.06.09 14:25:02 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java
+2023.06.09 14:25:03 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/MinionTest.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:47: error: reached end of file while parsing
+}
+ ^
+1 error
+2023.06.09 14:25:06 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java
+2023.06.09 14:25:07 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/MinionTest.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:47: error: reached end of file while parsing
+}
+ ^
+1 error
+2023.06.09 14:25:09 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java
+2023.06.09 14:25:10 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/MinionTest.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:47: error: reached end of file while parsing
+}
+ ^
+1 error
+2023.06.09 14:25:16 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java
+2023.06.09 14:25:17 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/MinionTest.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:47: error: reached end of file while parsing
+}
+ ^
+1 error
+2023.06.09 14:25:18 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java
+2023.06.09 14:25:19 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/MinionTest.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:3: error: package org.junit does not exist
+import static org.junit.Assert.*;
+                       ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:5: error: package org.junit does not exist
+import org.junit.Test;
+                ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:23: error: cannot find symbol
+@Test
+ ^
+  symbol:   class Test
+  location: class MinionTest
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:34: error: cannot find symbol
+@Test
+ ^
+  symbol:   class Test
+  location: class MinionTest
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:25: error: cannot find symbol
+		Minion stuart = new Minion("Stuart", 1, "yellow", "");
+		^
+  symbol:   class Minion
+  location: class MinionTest
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:25: error: cannot find symbol
+		Minion stuart = new Minion("Stuart", 1, "yellow", "");
+		                    ^
+  symbol:   class Minion
+  location: class MinionTest
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:29: error: cannot find symbol
+	Minion dave = new Minion("Dave", 2, "yellow", "");
+	^
+  symbol:   class Minion
+  location: class MinionTest
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:29: error: cannot find symbol
+	Minion dave = new Minion("Dave", 2, "yellow", "");
+	                  ^
+  symbol:   class Minion
+  location: class MinionTest
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:36: error: cannot find symbol
+Minion stuart = new Minion("Stuart", 1, "yellow", "");
+^
+  symbol:   class Minion
+  location: class MinionTest
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:36: error: cannot find symbol
+Minion stuart = new Minion("Stuart", 1, "yellow", "");
+                    ^
+  symbol:   class Minion
+  location: class MinionTest
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+13 errors
+2023.06.09 14:25:22 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java
+2023.06.09 14:25:23 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/MinionTest.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:3: error: package org.junit does not exist
+import static org.junit.Assert.*;
+                       ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:5: error: package org.junit does not exist
+import org.junit.Test;
+                ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:23: error: cannot find symbol
+@Test
+ ^
+  symbol:   class Test
+  location: class MinionTest
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:34: error: cannot find symbol
+@Test
+ ^
+  symbol:   class Test
+  location: class MinionTest
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:25: error: cannot find symbol
+		Minion stuart = new Minion("Stuart", 1, "yellow", "");
+		^
+  symbol:   class Minion
+  location: class MinionTest
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:25: error: cannot find symbol
+		Minion stuart = new Minion("Stuart", 1, "yellow", "");
+		                    ^
+  symbol:   class Minion
+  location: class MinionTest
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:29: error: cannot find symbol
+	Minion dave = new Minion("Dave", 2, "yellow", "");
+	^
+  symbol:   class Minion
+  location: class MinionTest
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:29: error: cannot find symbol
+	Minion dave = new Minion("Dave", 2, "yellow", "");
+	                  ^
+  symbol:   class Minion
+  location: class MinionTest
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:36: error: cannot find symbol
+Minion stuart = new Minion("Stuart", 1, "yellow", "");
+^
+  symbol:   class Minion
+  location: class MinionTest
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:36: error: cannot find symbol
+Minion stuart = new Minion("Stuart", 1, "yellow", "");
+                    ^
+  symbol:   class Minion
+  location: class MinionTest
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+13 errors
+2023.06.09 14:25:53 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java
+2023.06.09 14:25:54 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/MinionTest.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:3: error: package org.junit does not exist
+import static org.junit.Assert.*;
+                       ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:5: error: package org.junit does not exist
+import org.junit.Test;
+                ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:34: error: cannot find symbol
+@Test
+ ^
+  symbol:   class Test
+  location: class MinionTest
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:36: error: cannot find symbol
+Minion stuart = new Minion("Stuart", 1, "yellow", "");
+^
+  symbol:   class Minion
+  location: class MinionTest
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:36: error: cannot find symbol
+Minion stuart = new Minion("Stuart", 1, "yellow", "");
+                    ^
+  symbol:   class Minion
+  location: class MinionTest
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+8 errors
+2023.06.09 14:26:11 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/MinionTest.java
+2023.06.09 14:28:11 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:28:12 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:39: error: cannot find symbol
+        this.n = newMaster;
+            ^
+  symbol: variable n
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+4 errors
+Jun 09, 2023 2:28:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3391
+2023.06.09 14:28:15 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:28:16 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+3 errors
+2023.06.09 14:28:19 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:28:20 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:32: error: <identifier> expected
+        this. = newColor;
+             ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:32: error: not a statement
+        this. = newColor;
+            ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:32: error: ';' expected
+        this. = newColor;
+               ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:32: error: not a statement
+        this. = newColor;
+                ^
+4 errors
+2023.06.09 14:28:21 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:28:22 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+3 errors
+2023.06.09 14:28:28 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:28:29 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:25: error: incompatible types: String cannot be converted to int
+        this.eyes = newEyes;
+                    ^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+4 errors
+2023.06.09 14:29:07 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java
+2023.06.09 14:29:08 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/3.%20Getters%20and%20Setters/exercises/Minion.java. Output:
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Getters'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'and'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/3. Getters and Setters/exercises/Minion.java:1: error: semanticdb-javac: unknown flag 'Setters/exercises'
+package exercises;
+^
+3 errors
