@@ -1,0 +1,1024 @@
+2023.06.09 13:49:31 INFO  Started: Metals version 0.11.12 in workspace '/Users/awuku/Desktop/madecraft-oop' for client Visual Studio Code 1.75.0.
+Jun 09, 2023 1:49:31 PM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFO: Flyway Community Edition 9.16.3 by Redgate
+Jun 09, 2023 1:49:31 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: See release notes here: https://rd.gt/416ObMi
+Jun 09, 2023 1:49:31 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: 
+Jun 09, 2023 1:49:31 PM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFO: Database: jdbc:h2:file:/Users/awuku/Desktop/madecraft-oop/.metals/metals (H2 2.1)
+Jun 09, 2023 1:49:31 PM org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory allAppliedMigrations
+INFO: Schema history table "PUBLIC"."flyway_schema_history" does not exist yet
+Jun 09, 2023 1:49:31 PM org.flywaydb.core.internal.command.DbValidate validate
+INFO: Successfully validated 4 migrations (execution time 00:00.020s)
+Jun 09, 2023 1:49:31 PM org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory create
+INFO: Creating Schema History table "PUBLIC"."flyway_schema_history" ...
+Jun 09, 2023 1:49:31 PM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFO: Current version of schema "PUBLIC": << Empty Schema >>
+Jun 09, 2023 1:49:31 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "1 - Create tables"
+Jun 09, 2023 1:49:31 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "2 - Server discovery"
+Jun 09, 2023 1:49:31 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "3 - Jar symbols"
+Jun 09, 2023 1:49:31 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "4 - Fingerprints"
+Jun 09, 2023 1:49:31 PM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFO: Successfully applied 4 migrations to schema "PUBLIC", now at version v4 (execution time 00:00.057s)
+2023.06.09 13:49:32 INFO  time: initialize in 0.65s
+2023.06.09 13:49:36 WARN  Build server is not auto-connectable.
+2023.06.09 13:49:36 WARN  no build tool detected in workspace '/Users/awuku/Desktop/madecraft-oop'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.06.09 13:49:36 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/examples/Character.java
+2023.06.09 13:49:37 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/examples/Character.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/examples/Character.java:1: error: semanticdb-javac: unknown flag 'Inside'
+package examples;
+^
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/examples/Character.java:1: error: semanticdb-javac: unknown flag 'Classes/examples'
+package examples;
+^
+2 errors
+2023.06.09 13:49:37 INFO  time: code lens generation in 1.1s
+2023.06.09 13:50:47 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java
+2023.06.09 13:50:48 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Cat.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java:1: error: semanticdb-javac: unknown flag 'Inside'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java:1: error: semanticdb-javac: unknown flag 'Classes/exercises'
+package exercises;
+^
+2 errors
+2023.06.09 13:51:12 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java
+2023.06.09 13:51:13 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Cat.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java:1: error: semanticdb-javac: unknown flag 'Inside'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java:1: error: semanticdb-javac: unknown flag 'Classes/exercises'
+package exercises;
+^
+2 errors
+2023.06.09 13:51:21 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java
+2023.06.09 13:51:22 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Cat.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java:37: error: not a statement
+		Cat 
+		^
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java:37: error: ';' expected
+		Cat 
+		   ^
+2 errors
+2023.06.09 13:51:24 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java
+2023.06.09 13:51:24 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Cat.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java:37: error: ';' expected
+		Cat cat 
+		       ^
+1 error
+2023.06.09 13:51:26 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java
+2023.06.09 13:51:27 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Cat.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java:37: error: <identifier> expected
+		Cat cat = new 
+		             ^
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java:43: error: '(' or '[' expected
+	}
+	^
+2 errors
+2023.06.09 13:51:28 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java
+2023.06.09 13:51:28 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Cat.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java:37: error: ';' expected
+		Cat cat = new Cat(null)
+		                       ^
+1 error
+2023.06.09 13:51:32 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java
+2023.06.09 13:51:33 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Cat.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java:37: error: ';' expected
+		Cat cat = new Cat("null")
+		                         ^
+1 error
+2023.06.09 13:51:33 WARN  Cannot tokenize Java file file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Cat.java
+org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaTokens$.loop$1(JavaTokens.scala:71)
+	at scala.meta.internal.parsing.JavaTokens$.$anonfun$tokenize$1(JavaTokens.scala:75)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.parsing.JavaTokens$.tokenize(JavaTokens.scala:35)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:370)
+	at scala.meta.internal.metals.Diagnostics.publishDiagnostics(Diagnostics.scala:226)
+	at scala.meta.internal.metals.Diagnostics.publishDiagnostics(Diagnostics.scala:188)
+	at scala.meta.internal.metals.Diagnostics.didChange(Diagnostics.scala:136)
+	at scala.meta.internal.metals.MetalsLspService.didChange(MetalsLspService.scala:1265)
+	at scala.meta.metals.lsp.DelegatingScalaService.didChange(DelegatingScalaService.scala:50)
+	at jdk.internal.reflect.GeneratedMethodAccessor3.invoke(null)
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+Jun 09, 2023 1:51:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+java.util.concurrent.CompletionException: org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.next$1(JavaFoldingRangeExtractor.scala:102)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gather$1(JavaFoldingRangeExtractor.scala:149)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.extract(JavaFoldingRangeExtractor.scala:157)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:48)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:43)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$foldingRange$3(MetalsLspService.scala:1795)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+2023.06.09 13:51:34 WARN  Cannot tokenize Java file file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Cat.java
+org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaTokens$.loop$1(JavaTokens.scala:71)
+	at scala.meta.internal.parsing.JavaTokens$.$anonfun$tokenize$1(JavaTokens.scala:75)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.parsing.JavaTokens$.tokenize(JavaTokens.scala:35)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:370)
+	at scala.meta.internal.metals.Buffers.tokenEditDistance(Buffers.scala:30)
+	at scala.meta.internal.metals.codelenses.RunTestCodeLens.codeLenses(RunTestCodeLens.scala:62)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$3(CodeLensProvider.scala:26)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$2(CodeLensProvider.scala:26)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.CodeLensProvider.findLenses(CodeLensProvider.scala:24)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$2(MetalsLspService.scala:1780)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$1(MetalsLspService.scala:1778)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2023.06.09 13:51:34 WARN  Cannot tokenize Java file file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Cat.java
+org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaTokens$.loop$1(JavaTokens.scala:71)
+	at scala.meta.internal.parsing.JavaTokens$.$anonfun$tokenize$1(JavaTokens.scala:75)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.parsing.JavaTokens$.tokenize(JavaTokens.scala:35)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:370)
+	at scala.meta.internal.metals.Buffers.tokenEditDistance(Buffers.scala:30)
+	at scala.meta.internal.metals.codelenses.SuperMethodCodeLens.codeLenses(SuperMethodCodeLens.scala:36)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$3(CodeLensProvider.scala:26)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$2(CodeLensProvider.scala:26)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.CodeLensProvider.findLenses(CodeLensProvider.scala:24)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$2(MetalsLspService.scala:1780)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$1(MetalsLspService.scala:1778)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2023.06.09 13:51:34 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java
+2023.06.09 13:51:35 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Cat.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java:37: error: unclosed string literal
+		Cat cat = new Cat(")
+		                  ^
+1 error
+2023.06.09 13:51:37 WARN  Cannot tokenize Java file file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Cat.java
+org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaTokens$.loop$1(JavaTokens.scala:71)
+	at scala.meta.internal.parsing.JavaTokens$.$anonfun$tokenize$1(JavaTokens.scala:75)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.parsing.JavaTokens$.tokenize(JavaTokens.scala:35)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:370)
+	at scala.meta.internal.metals.Diagnostics.publishDiagnostics(Diagnostics.scala:226)
+	at scala.meta.internal.metals.Diagnostics.publishDiagnostics(Diagnostics.scala:188)
+	at scala.meta.internal.metals.Diagnostics.didChange(Diagnostics.scala:136)
+	at scala.meta.internal.metals.MetalsLspService.didChange(MetalsLspService.scala:1265)
+	at scala.meta.metals.lsp.DelegatingScalaService.didChange(DelegatingScalaService.scala:50)
+	at jdk.internal.reflect.GeneratedMethodAccessor3.invoke(null)
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+Jun 09, 2023 1:51:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+java.util.concurrent.CompletionException: org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.next$1(JavaFoldingRangeExtractor.scala:102)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gather$1(JavaFoldingRangeExtractor.scala:149)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.extract(JavaFoldingRangeExtractor.scala:157)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:48)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:43)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$foldingRange$3(MetalsLspService.scala:1795)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+2023.06.09 13:51:37 WARN  Cannot tokenize Java file file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Cat.java
+org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaTokens$.loop$1(JavaTokens.scala:71)
+	at scala.meta.internal.parsing.JavaTokens$.$anonfun$tokenize$1(JavaTokens.scala:75)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.parsing.JavaTokens$.tokenize(JavaTokens.scala:35)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:370)
+	at scala.meta.internal.metals.Buffers.tokenEditDistance(Buffers.scala:30)
+	at scala.meta.internal.metals.codelenses.RunTestCodeLens.codeLenses(RunTestCodeLens.scala:62)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$3(CodeLensProvider.scala:26)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$2(CodeLensProvider.scala:26)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.CodeLensProvider.findLenses(CodeLensProvider.scala:24)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$2(MetalsLspService.scala:1780)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$1(MetalsLspService.scala:1778)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2023.06.09 13:51:37 WARN  Cannot tokenize Java file file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Cat.java
+org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaTokens$.loop$1(JavaTokens.scala:71)
+	at scala.meta.internal.parsing.JavaTokens$.$anonfun$tokenize$1(JavaTokens.scala:75)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.parsing.JavaTokens$.tokenize(JavaTokens.scala:35)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:370)
+	at scala.meta.internal.metals.Buffers.tokenEditDistance(Buffers.scala:30)
+	at scala.meta.internal.metals.codelenses.SuperMethodCodeLens.codeLenses(SuperMethodCodeLens.scala:36)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$3(CodeLensProvider.scala:26)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$2(CodeLensProvider.scala:26)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.CodeLensProvider.findLenses(CodeLensProvider.scala:24)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$2(MetalsLspService.scala:1780)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$1(MetalsLspService.scala:1778)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2023.06.09 13:51:37 WARN  Cannot tokenize Java file file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Cat.java
+org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaTokens$.loop$1(JavaTokens.scala:71)
+	at scala.meta.internal.parsing.JavaTokens$.$anonfun$tokenize$1(JavaTokens.scala:75)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.parsing.JavaTokens$.tokenize(JavaTokens.scala:35)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:370)
+	at scala.meta.internal.metals.Diagnostics.publishDiagnostics(Diagnostics.scala:226)
+	at scala.meta.internal.metals.Diagnostics.publishDiagnostics(Diagnostics.scala:188)
+	at scala.meta.internal.metals.Diagnostics.didChange(Diagnostics.scala:136)
+	at scala.meta.internal.metals.MetalsLspService.didChange(MetalsLspService.scala:1265)
+	at scala.meta.metals.lsp.DelegatingScalaService.didChange(DelegatingScalaService.scala:50)
+	at jdk.internal.reflect.GeneratedMethodAccessor3.invoke(null)
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+Jun 09, 2023 1:51:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+java.util.concurrent.CompletionException: org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.next$1(JavaFoldingRangeExtractor.scala:102)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gather$1(JavaFoldingRangeExtractor.scala:149)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.extract(JavaFoldingRangeExtractor.scala:157)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:48)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:43)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$foldingRange$3(MetalsLspService.scala:1795)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+2023.06.09 13:51:39 WARN  Cannot tokenize Java file file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Cat.java
+org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaTokens$.loop$1(JavaTokens.scala:71)
+	at scala.meta.internal.parsing.JavaTokens$.$anonfun$tokenize$1(JavaTokens.scala:75)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.parsing.JavaTokens$.tokenize(JavaTokens.scala:35)
+	at scala.meta.internal.parsing.TokenEditDistance$.$anonfun$apply$1(TokenEditDistance.scala:371)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:370)
+	at scala.meta.internal.metals.Buffers.tokenEditDistance(Buffers.scala:30)
+	at scala.meta.internal.metals.codelenses.RunTestCodeLens.codeLenses(RunTestCodeLens.scala:62)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$3(CodeLensProvider.scala:26)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$2(CodeLensProvider.scala:26)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.CodeLensProvider.findLenses(CodeLensProvider.scala:24)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$2(MetalsLspService.scala:1780)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$1(MetalsLspService.scala:1778)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2023.06.09 13:51:39 WARN  Cannot tokenize Java file file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Cat.java
+org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaTokens$.loop$1(JavaTokens.scala:71)
+	at scala.meta.internal.parsing.JavaTokens$.$anonfun$tokenize$1(JavaTokens.scala:75)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.parsing.JavaTokens$.tokenize(JavaTokens.scala:35)
+	at scala.meta.internal.parsing.TokenEditDistance$.$anonfun$apply$1(TokenEditDistance.scala:371)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:370)
+	at scala.meta.internal.metals.Buffers.tokenEditDistance(Buffers.scala:30)
+	at scala.meta.internal.metals.codelenses.SuperMethodCodeLens.codeLenses(SuperMethodCodeLens.scala:36)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$3(CodeLensProvider.scala:26)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$2(CodeLensProvider.scala:26)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.CodeLensProvider.findLenses(CodeLensProvider.scala:24)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$2(MetalsLspService.scala:1780)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$1(MetalsLspService.scala:1778)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2023.06.09 13:51:39 WARN  Cannot tokenize Java file file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Cat.java
+org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaTokens$.loop$1(JavaTokens.scala:71)
+	at scala.meta.internal.parsing.JavaTokens$.$anonfun$tokenize$1(JavaTokens.scala:75)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.parsing.JavaTokens$.tokenize(JavaTokens.scala:35)
+	at scala.meta.internal.parsing.TokenEditDistance$.$anonfun$apply$1(TokenEditDistance.scala:371)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:370)
+	at scala.meta.internal.metals.Buffers.tokenEditDistance(Buffers.scala:30)
+	at scala.meta.internal.metals.codelenses.RunTestCodeLens.codeLenses(RunTestCodeLens.scala:62)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$3(CodeLensProvider.scala:26)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$2(CodeLensProvider.scala:26)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.CodeLensProvider.findLenses(CodeLensProvider.scala:24)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$2(MetalsLspService.scala:1780)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$1(MetalsLspService.scala:1778)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2023.06.09 13:51:39 WARN  Cannot tokenize Java file file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Cat.java
+org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaTokens$.loop$1(JavaTokens.scala:71)
+	at scala.meta.internal.parsing.JavaTokens$.$anonfun$tokenize$1(JavaTokens.scala:75)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.parsing.JavaTokens$.tokenize(JavaTokens.scala:35)
+	at scala.meta.internal.parsing.TokenEditDistance$.$anonfun$apply$1(TokenEditDistance.scala:371)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:370)
+	at scala.meta.internal.metals.Buffers.tokenEditDistance(Buffers.scala:30)
+	at scala.meta.internal.metals.codelenses.SuperMethodCodeLens.codeLenses(SuperMethodCodeLens.scala:36)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$3(CodeLensProvider.scala:26)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$2(CodeLensProvider.scala:26)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.CodeLensProvider.findLenses(CodeLensProvider.scala:24)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$2(MetalsLspService.scala:1780)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$1(MetalsLspService.scala:1778)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2023.06.09 13:51:40 WARN  Cannot tokenize Java file file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Cat.java
+org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaTokens$.loop$1(JavaTokens.scala:71)
+	at scala.meta.internal.parsing.JavaTokens$.$anonfun$tokenize$1(JavaTokens.scala:75)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.parsing.JavaTokens$.tokenize(JavaTokens.scala:35)
+	at scala.meta.internal.parsing.TokenEditDistance$.$anonfun$apply$1(TokenEditDistance.scala:371)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:370)
+	at scala.meta.internal.metals.Buffers.tokenEditDistance(Buffers.scala:30)
+	at scala.meta.internal.metals.codelenses.RunTestCodeLens.codeLenses(RunTestCodeLens.scala:62)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$3(CodeLensProvider.scala:26)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$2(CodeLensProvider.scala:26)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.CodeLensProvider.findLenses(CodeLensProvider.scala:24)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$2(MetalsLspService.scala:1780)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$1(MetalsLspService.scala:1778)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2023.06.09 13:51:40 WARN  Cannot tokenize Java file file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Cat.java
+org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaTokens$.loop$1(JavaTokens.scala:71)
+	at scala.meta.internal.parsing.JavaTokens$.$anonfun$tokenize$1(JavaTokens.scala:75)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.parsing.JavaTokens$.tokenize(JavaTokens.scala:35)
+	at scala.meta.internal.parsing.TokenEditDistance$.$anonfun$apply$1(TokenEditDistance.scala:371)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:370)
+	at scala.meta.internal.metals.Buffers.tokenEditDistance(Buffers.scala:30)
+	at scala.meta.internal.metals.codelenses.SuperMethodCodeLens.codeLenses(SuperMethodCodeLens.scala:36)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$3(CodeLensProvider.scala:26)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$2(CodeLensProvider.scala:26)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.CodeLensProvider.findLenses(CodeLensProvider.scala:24)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$2(MetalsLspService.scala:1780)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$1(MetalsLspService.scala:1778)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2023.06.09 13:51:41 WARN  Cannot tokenize Java file file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Cat.java
+org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaTokens$.loop$1(JavaTokens.scala:71)
+	at scala.meta.internal.parsing.JavaTokens$.$anonfun$tokenize$1(JavaTokens.scala:75)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.parsing.JavaTokens$.tokenize(JavaTokens.scala:35)
+	at scala.meta.internal.parsing.TokenEditDistance$.$anonfun$apply$1(TokenEditDistance.scala:371)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:370)
+	at scala.meta.internal.metals.Buffers.tokenEditDistance(Buffers.scala:30)
+	at scala.meta.internal.metals.codelenses.RunTestCodeLens.codeLenses(RunTestCodeLens.scala:62)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$3(CodeLensProvider.scala:26)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$2(CodeLensProvider.scala:26)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.CodeLensProvider.findLenses(CodeLensProvider.scala:24)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$2(MetalsLspService.scala:1780)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$1(MetalsLspService.scala:1778)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2023.06.09 13:51:41 WARN  Cannot tokenize Java file file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Cat.java
+org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaTokens$.loop$1(JavaTokens.scala:71)
+	at scala.meta.internal.parsing.JavaTokens$.$anonfun$tokenize$1(JavaTokens.scala:75)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.parsing.JavaTokens$.tokenize(JavaTokens.scala:35)
+	at scala.meta.internal.parsing.TokenEditDistance$.$anonfun$apply$1(TokenEditDistance.scala:371)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:370)
+	at scala.meta.internal.metals.Buffers.tokenEditDistance(Buffers.scala:30)
+	at scala.meta.internal.metals.codelenses.SuperMethodCodeLens.codeLenses(SuperMethodCodeLens.scala:36)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$3(CodeLensProvider.scala:26)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$2(CodeLensProvider.scala:26)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.CodeLensProvider.findLenses(CodeLensProvider.scala:24)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$2(MetalsLspService.scala:1780)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$1(MetalsLspService.scala:1778)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2023.06.09 13:51:42 WARN  Cannot tokenize Java file file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Cat.java
+org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaTokens$.loop$1(JavaTokens.scala:71)
+	at scala.meta.internal.parsing.JavaTokens$.$anonfun$tokenize$1(JavaTokens.scala:75)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.parsing.JavaTokens$.tokenize(JavaTokens.scala:35)
+	at scala.meta.internal.parsing.TokenEditDistance$.$anonfun$apply$1(TokenEditDistance.scala:371)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:370)
+	at scala.meta.internal.metals.Buffers.tokenEditDistance(Buffers.scala:30)
+	at scala.meta.internal.metals.codelenses.RunTestCodeLens.codeLenses(RunTestCodeLens.scala:62)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$3(CodeLensProvider.scala:26)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$2(CodeLensProvider.scala:26)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.CodeLensProvider.findLenses(CodeLensProvider.scala:24)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$2(MetalsLspService.scala:1780)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$1(MetalsLspService.scala:1778)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2023.06.09 13:51:42 WARN  Cannot tokenize Java file file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Cat.java
+org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaTokens$.loop$1(JavaTokens.scala:71)
+	at scala.meta.internal.parsing.JavaTokens$.$anonfun$tokenize$1(JavaTokens.scala:75)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.parsing.JavaTokens$.tokenize(JavaTokens.scala:35)
+	at scala.meta.internal.parsing.TokenEditDistance$.$anonfun$apply$1(TokenEditDistance.scala:371)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:370)
+	at scala.meta.internal.metals.Buffers.tokenEditDistance(Buffers.scala:30)
+	at scala.meta.internal.metals.codelenses.SuperMethodCodeLens.codeLenses(SuperMethodCodeLens.scala:36)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$3(CodeLensProvider.scala:26)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$2(CodeLensProvider.scala:26)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.CodeLensProvider.findLenses(CodeLensProvider.scala:24)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$2(MetalsLspService.scala:1780)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$1(MetalsLspService.scala:1778)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2023.06.09 13:51:42 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java
+2023.06.09 13:51:43 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Cat.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java:37: error: ';' expected
+		Cat cat = new Cat()
+		                   ^
+1 error
+2023.06.09 13:51:47 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java
+2023.06.09 13:51:47 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Cat.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java:37: error: ';' expected
+		Cat cat = new Cat(null)
+		                       ^
+1 error
+2023.06.09 13:51:47 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java
+2023.06.09 13:51:49 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Cat.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java:37: error: ';' expected
+		Cat cat = new Cat()
+		                   ^
+1 error
+2023.06.09 13:51:52 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java
+2023.06.09 13:51:53 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Cat.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java:43: error: '(' or '[' expected
+	}
+	^
+1 error
+2023.06.09 13:51:53 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java
+2023.06.09 13:51:54 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Cat.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java:37: error: ';' expected
+		Cat cat = new Cat()
+		                   ^
+1 error
+2023.06.09 13:51:54 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java
+2023.06.09 13:51:55 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Cat.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java:37: error: ';' expected
+		Cat cat = new Cat(null)
+		                       ^
+1 error
+2023.06.09 13:51:57 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java
+2023.06.09 13:51:58 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Cat.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java:37: error: ';' expected
+		Cat cat = new Cat("null")
+		                         ^
+1 error
+Jun 09, 2023 1:52:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 224
+2023.06.09 13:52:03 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java
+2023.06.09 13:52:04 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Cat.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java:37: error: ';' expected
+		Cat cat = new Cat("")
+		                     ^
+1 error
+2023.06.09 13:52:09 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java
+2023.06.09 13:52:10 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Cat.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java:37: error: ';' expected
+		Cat cat = new Cat("Paw")
+		                        ^
+1 error
+2023.06.09 13:52:10 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java
+2023.06.09 13:52:11 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Cat.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java:37: error: ';' expected
+		Cat cat = new Cat("Paws")
+		                         ^
+1 error
+2023.06.09 13:52:15 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java
+2023.06.09 13:52:16 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Cat.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java:37: error: ';' expected
+		Cat cat = new Cat("Paws")
+		                         ^
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java:38: error: <identifier> expected
+		cat.
+		    ^
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java:38: error: not a statement
+		cat.
+		   ^
+3 errors
+2023.06.09 13:52:19 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java
+2023.06.09 13:52:20 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Cat.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java:37: error: ';' expected
+		Cat cat = new Cat("Paws")
+		                         ^
+1 error
+2023.06.09 13:52:23 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java
+2023.06.09 13:52:24 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Cat.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java:37: error: ';' expected
+		Cat cat = new Cat("Paws")
+		                         ^
+1 error
+2023.06.09 13:52:26 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java
+2023.06.09 13:52:27 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Cat.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java:37: error: ';' expected
+		Cat cat = new Cat("Paws")
+		                         ^
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java:41: error: <identifier> expected
+		cat.
+		    ^
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java:41: error: not a statement
+		cat.
+		   ^
+3 errors
+2023.06.09 13:52:28 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java
+2023.06.09 13:52:29 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Cat.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java:37: error: ';' expected
+		Cat cat = new Cat("Paws")
+		                         ^
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java:41: error: ';' expected
+		cat.toString()
+		              ^
+2 errors
+2023.06.09 13:52:29 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java
+2023.06.09 13:52:30 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Cat.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java:37: error: ';' expected
+		Cat cat = new Cat("Paws")
+		                         ^
+1 error
+2023.06.09 13:52:31 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java
+2023.06.09 13:52:32 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Cat.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java:37: error: ';' expected
+		Cat cat = new Cat("Paws")
+		                         ^
+1 error
+2023.06.09 13:52:35 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java
+2023.06.09 13:52:35 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Cat.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java:37: error: ';' expected
+		Cat cat = new Cat("Paws")
+		                         ^
+1 error
+2023.06.09 13:52:46 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java
+2023.06.09 13:52:47 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Cat.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java:1: error: semanticdb-javac: unknown flag 'Inside'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Cat.java:1: error: semanticdb-javac: unknown flag 'Classes/exercises'
+package exercises;
+^
+2 errors
+2023.06.09 13:52:51 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java
+2023.06.09 13:52:52 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Harry.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:1: error: semanticdb-javac: unknown flag 'Inside'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:1: error: semanticdb-javac: unknown flag 'Classes/exercises'
+package exercises;
+^
+2 errors
+2023.06.09 13:54:28 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java
+2023.06.09 13:54:29 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Harry.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:1: error: semanticdb-javac: unknown flag 'Inside'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:1: error: semanticdb-javac: unknown flag 'Classes/exercises'
+package exercises;
+^
+2 errors
+2023.06.09 13:54:54 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java
+2023.06.09 13:54:54 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Harry.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:30: error: not a statement
+		Harry 
+		^
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:30: error: ';' expected
+		Harry 
+		     ^
+2 errors
+Jun 09, 2023 1:54:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 467
+2023.06.09 13:54:58 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java
+2023.06.09 13:54:59 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Harry.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:30: error: ';' expected
+		Harry harryPorter
+		                 ^
+1 error
+2023.06.09 13:55:04 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java
+2023.06.09 13:55:05 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Harry.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:30: error: <identifier> expected
+		Harry harryPorter = new 
+		                       ^
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:35: error: '(' or '[' expected
+	}
+	^
+2 errors
+2023.06.09 13:55:05 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java
+2023.06.09 13:55:06 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Harry.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:30: error: ';' expected
+		Harry harryPorter = new Harry()
+		                               ^
+1 error
+2023.06.09 13:55:26 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java
+2023.06.09 13:55:27 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Harry.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:1: error: semanticdb-javac: unknown flag 'Inside'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:1: error: semanticdb-javac: unknown flag 'Classes/exercises'
+package exercises;
+^
+2 errors
+2023.06.09 13:55:29 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java
+2023.06.09 13:55:30 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Harry.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:1: error: semanticdb-javac: unknown flag 'Inside'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:1: error: semanticdb-javac: unknown flag 'Classes/exercises'
+package exercises;
+^
+2 errors
+2023.06.09 13:55:32 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java
+2023.06.09 13:55:33 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Harry.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:32: error: <identifier> expected
+		harryPorter.
+		            ^
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:32: error: not a statement
+		harryPorter.
+		           ^
+2 errors
+2023.06.09 13:55:52 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java
+2023.06.09 13:55:53 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Harry.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:32: error: not a statement
+		harryPorter.cloakOn
+		           ^
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:32: error: ';' expected
+		harryPorter.cloakOn
+		                   ^
+2 errors
+2023.06.09 13:55:53 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java
+2023.06.09 13:55:54 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Harry.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:32: error: ';' expected
+		harryPorter.cloakOn()
+		                     ^
+1 error
+2023.06.09 13:55:56 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java
+2023.06.09 13:55:57 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Harry.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:32: error: ';' expected
+		harryPorter.cloakOn(true)
+		                         ^
+1 error
+2023.06.09 13:55:58 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java
+2023.06.09 13:55:58 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Harry.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:32: error: cannot find symbol
+		harryPorter.cloakOn(true);
+		           ^
+  symbol:   method cloakOn(boolean)
+  location: variable harryPorter of type Harry
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:1: error: semanticdb-javac: unknown flag 'Inside'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:1: error: semanticdb-javac: unknown flag 'Classes/exercises'
+package exercises;
+^
+3 errors
+2023.06.09 13:56:16 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java
+2023.06.09 13:56:17 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Harry.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:1: error: semanticdb-javac: unknown flag 'Inside'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:1: error: semanticdb-javac: unknown flag 'Classes/exercises'
+package exercises;
+^
+2 errors
+2023.06.09 13:56:19 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java
+2023.06.09 13:56:20 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Harry.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:32: error: cannot find symbol
+		harryPorter.makeInvisible(t);
+		                          ^
+  symbol:   variable t
+  location: class Harry
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:1: error: semanticdb-javac: unknown flag 'Inside'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:1: error: semanticdb-javac: unknown flag 'Classes/exercises'
+package exercises;
+^
+3 errors
+2023.06.09 13:56:21 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java
+2023.06.09 13:56:22 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Harry.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:1: error: semanticdb-javac: unknown flag 'Inside'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:1: error: semanticdb-javac: unknown flag 'Classes/exercises'
+package exercises;
+^
+2 errors
+2023.06.09 13:56:25 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java
+2023.06.09 13:56:26 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Harry.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:1: error: semanticdb-javac: unknown flag 'Inside'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:1: error: semanticdb-javac: unknown flag 'Classes/exercises'
+package exercises;
+^
+2 errors
+2023.06.09 13:56:38 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java
+2023.06.09 13:56:39 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Harry.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:1: error: semanticdb-javac: unknown flag 'Inside'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:1: error: semanticdb-javac: unknown flag 'Classes/exercises'
+package exercises;
+^
+2 errors
+2023.06.09 13:56:45 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java
+2023.06.09 13:56:46 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Harry.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:1: error: semanticdb-javac: unknown flag 'Inside'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:1: error: semanticdb-javac: unknown flag 'Classes/exercises'
+package exercises;
+^
+2 errors
+2023.06.09 13:57:00 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java
+2023.06.09 13:57:01 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Harry.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:36: error: not a statement
+		harryPorter
+		^
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:36: error: ';' expected
+		harryPorter
+		           ^
+2 errors
+2023.06.09 13:57:02 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java
+2023.06.09 13:57:02 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Harry.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:36: error: <identifier> expected
+		harryPorter.
+		            ^
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:36: error: not a statement
+		harryPorter.
+		           ^
+2 errors
+2023.06.09 13:57:03 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java
+2023.06.09 13:57:04 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Harry.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:1: error: semanticdb-javac: unknown flag 'Inside'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:1: error: semanticdb-javac: unknown flag 'Classes/exercises'
+package exercises;
+^
+2 errors
+2023.06.09 13:57:07 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java
+2023.06.09 13:57:08 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Harry.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:1: error: semanticdb-javac: unknown flag 'Inside'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:1: error: semanticdb-javac: unknown flag 'Classes/exercises'
+package exercises;
+^
+2 errors
+2023.06.09 13:57:11 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java
+2023.06.09 13:57:11 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Harry.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:38: error: <identifier> expected
+		harryPorter.
+		            ^
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:38: error: not a statement
+		harryPorter.
+		           ^
+2 errors
+2023.06.09 13:57:13 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java
+2023.06.09 13:57:14 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Harry.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:1: error: semanticdb-javac: unknown flag 'Inside'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:1: error: semanticdb-javac: unknown flag 'Classes/exercises'
+package exercises;
+^
+2 errors
+2023.06.09 13:57:19 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java
+2023.06.09 13:57:20 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Harry.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:1: error: semanticdb-javac: unknown flag 'Inside'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:1: error: semanticdb-javac: unknown flag 'Classes/exercises'
+package exercises;
+^
+2 errors
+2023.06.09 13:57:21 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java
+2023.06.09 13:57:22 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Harry.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:1: error: semanticdb-javac: unknown flag 'Inside'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:1: error: semanticdb-javac: unknown flag 'Classes/exercises'
+package exercises;
+^
+2 errors
+2023.06.09 13:57:24 WARN  no build target for: /Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java
+2023.06.09 13:57:25 WARN  Running javac-semanticdb failed for file:///Users/awuku/Desktop/madecraft-oop/2.%20Inside%20Classes/exercises/Harry.java. Output:
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:1: error: semanticdb-javac: unknown flag 'Inside'
+package exercises;
+^
+/Users/awuku/Desktop/madecraft-oop/2. Inside Classes/exercises/Harry.java:1: error: semanticdb-javac: unknown flag 'Classes/exercises'
+package exercises;
+^
+2 errors
